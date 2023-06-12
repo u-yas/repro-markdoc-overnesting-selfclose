@@ -16,14 +16,6 @@
       "name": "p",
       "attributes": {},
       "children": [
-        "This Br tag is displayed normally"
-      ]
-    },
-    {
-      "$$mdtype": "Tag",
-      "name": "p",
-      "attributes": {},
-      "children": [
         "But since v0.3 the content below from here is not shown"
       ]
     },

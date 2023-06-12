@@ -101,7 +101,7 @@
               ],
               "inline": true,
               "attributes": {
-                "content": "This Br tag is displayed normally"
+                "content": "But since v0.3 the content below from here is not shown"
               },
               "children": [],
               "type": "text",
@@ -142,73 +142,6 @@
     {
       "$$mdtype": "Node",
       "errors": [],
-      "lines": [
-        4,
-        5
-      ],
-      "inline": false,
-      "attributes": {},
-      "children": [
-        {
-          "$$mdtype": "Node",
-          "errors": [],
-          "lines": [
-            4,
-            5
-          ],
-          "inline": false,
-          "attributes": {},
-          "children": [
-            {
-              "$$mdtype": "Node",
-              "errors": [],
-              "lines": [
-                4,
-                5
-              ],
-              "inline": true,
-              "attributes": {
-                "content": "But since v0.3 the content below from here is not shown"
-              },
-              "children": [],
-              "type": "text",
-              "annotations": [],
-              "location": {
-                "start": {
-                  "line": 4
-                },
-                "end": {
-                  "line": 5
-                }
-              }
-            }
-          ],
-          "type": "inline",
-          "annotations": [],
-          "location": {
-            "start": {
-              "line": 4
-            },
-            "end": {
-              "line": 5
-            }
-          }
-        }
-      ],
-      "type": "paragraph",
-      "annotations": [],
-      "location": {
-        "start": {
-          "line": 4
-        },
-        "end": {
-          "line": 5
-        }
-      }
-    },
-    {
-      "$$mdtype": "Node",
-      "errors": [],
       "lines": [],
       "inline": false,
       "attributes": {
@@ -239,8 +172,8 @@
       "$$mdtype": "Node",
       "errors": [],
       "lines": [
-        8,
-        9
+        6,
+        7
       ],
       "inline": false,
       "attributes": {},
@@ -249,8 +182,8 @@
           "$$mdtype": "Node",
           "errors": [],
           "lines": [
-            8,
-            9
+            6,
+            7
           ],
           "inline": false,
           "attributes": {},
@@ -259,8 +192,8 @@
               "$$mdtype": "Node",
               "errors": [],
               "lines": [
-                8,
-                9
+                6,
+                7
               ],
               "inline": true,
               "attributes": {
@@ -271,10 +204,10 @@
               "annotations": [],
               "location": {
                 "start": {
-                  "line": 8
+                  "line": 6
                 },
                 "end": {
-                  "line": 9
+                  "line": 7
                 }
               }
             }
@@ -283,10 +216,10 @@
           "annotations": [],
           "location": {
             "start": {
-              "line": 8
+              "line": 6
             },
             "end": {
-              "line": 9
+              "line": 7
             }
           }
         }
@@ -295,10 +228,10 @@
       "annotations": [],
       "location": {
         "start": {
-          "line": 8
+          "line": 6
         },
         "end": {
-          "line": 9
+          "line": 7
         }
       }
     },
@@ -364,8 +297,8 @@
       "$$mdtype": "Node",
       "errors": [],
       "lines": [
-        13,
-        14
+        11,
+        12
       ],
       "inline": false,
       "attributes": {},
@@ -374,8 +307,8 @@
           "$$mdtype": "Node",
           "errors": [],
           "lines": [
-            13,
-            14
+            11,
+            12
           ],
           "inline": false,
           "attributes": {},
@@ -384,8 +317,8 @@
               "$$mdtype": "Node",
               "errors": [],
               "lines": [
-                13,
-                14
+                11,
+                12
               ],
               "inline": true,
               "attributes": {
@@ -396,10 +329,10 @@
               "annotations": [],
               "location": {
                 "start": {
-                  "line": 13
+                  "line": 11
                 },
                 "end": {
-                  "line": 14
+                  "line": 12
                 }
               }
             }
@@ -408,10 +341,10 @@
           "annotations": [],
           "location": {
             "start": {
-              "line": 13
+              "line": 11
             },
             "end": {
-              "line": 14
+              "line": 12
             }
           }
         }
@@ -420,10 +353,10 @@
       "annotations": [],
       "location": {
         "start": {
-          "line": 13
+          "line": 11
         },
         "end": {
-          "line": 14
+          "line": 12
         }
       }
     }
