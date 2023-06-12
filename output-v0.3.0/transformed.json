@@ -1,0 +1,68 @@
+{
+  "$$mdtype": "Tag",
+  "name": "article",
+  "attributes": {},
+  "children": [
+    {
+      "$$mdtype": "Tag",
+      "name": "p",
+      "attributes": {},
+      "children": [
+        "this is example doc"
+      ]
+    },
+    {
+      "$$mdtype": "Tag",
+      "name": "p",
+      "attributes": {},
+      "children": [
+        "This Br tag is displayed normally"
+      ]
+    },
+    {
+      "$$mdtype": "Tag",
+      "name": "p",
+      "attributes": {},
+      "children": [
+        "But since v0.3 the content below from here is not shown"
+      ]
+    },
+    {
+      "$$mdtype": "Tag",
+      "name": "br",
+      "attributes": {},
+      "children": [
+        {
+          "$$mdtype": "Tag",
+          "name": "p",
+          "attributes": {},
+          "children": [
+            "MarkDoc is"
+          ]
+        },
+        {
+          "$$mdtype": "Tag",
+          "name": "br",
+          "attributes": {},
+          "children": [
+            {
+              "$$mdtype": "Tag",
+              "name": "br",
+              "attributes": {},
+              "children": [
+                {
+                  "$$mdtype": "Tag",
+                  "name": "p",
+                  "attributes": {},
+                  "children": [
+                    "great tool!!"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

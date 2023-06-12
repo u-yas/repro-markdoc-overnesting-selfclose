@@ -1,0 +1,539 @@
+{
+  "$$mdtype": "Node",
+  "errors": [],
+  "lines": [],
+  "inline": false,
+  "attributes": {},
+  "children": [
+    {
+      "$$mdtype": "Node",
+      "errors": [],
+      "lines": [
+        0,
+        1
+      ],
+      "inline": false,
+      "attributes": {},
+      "children": [
+        {
+          "$$mdtype": "Node",
+          "errors": [],
+          "lines": [
+            0,
+            1
+          ],
+          "inline": false,
+          "attributes": {},
+          "children": [
+            {
+              "$$mdtype": "Node",
+              "errors": [],
+              "lines": [
+                0,
+                1
+              ],
+              "inline": true,
+              "attributes": {
+                "content": "this is example doc"
+              },
+              "children": [],
+              "type": "text",
+              "annotations": [],
+              "slots": {},
+              "location": {
+                "start": {
+                  "line": 0
+                },
+                "end": {
+                  "line": 1
+                }
+              }
+            }
+          ],
+          "type": "inline",
+          "annotations": [],
+          "slots": {},
+          "location": {
+            "start": {
+              "line": 0
+            },
+            "end": {
+              "line": 1
+            }
+          }
+        }
+      ],
+      "type": "paragraph",
+      "annotations": [],
+      "slots": {},
+      "location": {
+        "start": {
+          "line": 0
+        },
+        "end": {
+          "line": 1
+        }
+      }
+    },
+    {
+      "$$mdtype": "Node",
+      "errors": [],
+      "lines": [
+        2,
+        3
+      ],
+      "inline": false,
+      "attributes": {},
+      "children": [
+        {
+          "$$mdtype": "Node",
+          "errors": [],
+          "lines": [
+            2,
+            3
+          ],
+          "inline": false,
+          "attributes": {},
+          "children": [
+            {
+              "$$mdtype": "Node",
+              "errors": [],
+              "lines": [
+                2,
+                3
+              ],
+              "inline": true,
+              "attributes": {
+                "content": "This Br tag is displayed normally"
+              },
+              "children": [],
+              "type": "text",
+              "annotations": [],
+              "slots": {},
+              "location": {
+                "start": {
+                  "line": 2
+                },
+                "end": {
+                  "line": 3
+                }
+              }
+            }
+          ],
+          "type": "inline",
+          "annotations": [],
+          "slots": {},
+          "location": {
+            "start": {
+              "line": 2
+            },
+            "end": {
+              "line": 3
+            }
+          }
+        }
+      ],
+      "type": "paragraph",
+      "annotations": [],
+      "slots": {},
+      "location": {
+        "start": {
+          "line": 2
+        },
+        "end": {
+          "line": 3
+        }
+      }
+    },
+    {
+      "$$mdtype": "Node",
+      "errors": [],
+      "lines": [
+        4,
+        5
+      ],
+      "inline": false,
+      "attributes": {},
+      "children": [
+        {
+          "$$mdtype": "Node",
+          "errors": [],
+          "lines": [
+            4,
+            5
+          ],
+          "inline": false,
+          "attributes": {},
+          "children": [
+            {
+              "$$mdtype": "Node",
+              "errors": [],
+              "lines": [
+                4,
+                5
+              ],
+              "inline": true,
+              "attributes": {
+                "content": "But since v0.3 the content below from here is not shown"
+              },
+              "children": [],
+              "type": "text",
+              "annotations": [],
+              "slots": {},
+              "location": {
+                "start": {
+                  "line": 4
+                },
+                "end": {
+                  "line": 5
+                }
+              }
+            }
+          ],
+          "type": "inline",
+          "annotations": [],
+          "slots": {},
+          "location": {
+            "start": {
+              "line": 4
+            },
+            "end": {
+              "line": 5
+            }
+          }
+        }
+      ],
+      "type": "paragraph",
+      "annotations": [],
+      "slots": {},
+      "location": {
+        "start": {
+          "line": 4
+        },
+        "end": {
+          "line": 5
+        }
+      }
+    },
+    {
+      "$$mdtype": "Node",
+      "errors": [
+        {
+          "id": "missing-closing",
+          "level": "critical",
+          "message": "Node 'html-tag' is missing closing"
+        }
+      ],
+      "lines": [],
+      "inline": false,
+      "attributes": {
+        "name": "br",
+        "attrs": {}
+      },
+      "children": [
+        {
+          "$$mdtype": "Node",
+          "errors": [
+            {
+              "id": "missing-opening",
+              "level": "critical",
+              "message": "Node 'tag' is missing opening"
+            }
+          ],
+          "lines": [],
+          "inline": false,
+          "attributes": {},
+          "children": [],
+          "type": "tag",
+          "tag": "html_close",
+          "annotations": [],
+          "slots": {},
+          "location": {
+            "start": {},
+            "end": {}
+          }
+        },
+        {
+          "$$mdtype": "Node",
+          "errors": [],
+          "lines": [
+            8,
+            9
+          ],
+          "inline": false,
+          "attributes": {},
+          "children": [
+            {
+              "$$mdtype": "Node",
+              "errors": [],
+              "lines": [
+                8,
+                9
+              ],
+              "inline": false,
+              "attributes": {},
+              "children": [
+                {
+                  "$$mdtype": "Node",
+                  "errors": [],
+                  "lines": [
+                    8,
+                    9
+                  ],
+                  "inline": true,
+                  "attributes": {
+                    "content": "MarkDoc is"
+                  },
+                  "children": [],
+                  "type": "text",
+                  "annotations": [],
+                  "slots": {},
+                  "location": {
+                    "start": {
+                      "line": 8
+                    },
+                    "end": {
+                      "line": 9
+                    }
+                  }
+                }
+              ],
+              "type": "inline",
+              "annotations": [],
+              "slots": {},
+              "location": {
+                "start": {
+                  "line": 8
+                },
+                "end": {
+                  "line": 9
+                }
+              }
+            }
+          ],
+          "type": "paragraph",
+          "annotations": [],
+          "slots": {},
+          "location": {
+            "start": {
+              "line": 8
+            },
+            "end": {
+              "line": 9
+            }
+          }
+        },
+        {
+          "$$mdtype": "Node",
+          "errors": [
+            {
+              "id": "missing-closing",
+              "level": "critical",
+              "message": "Node 'html-tag' is missing closing"
+            }
+          ],
+          "lines": [],
+          "inline": false,
+          "attributes": {
+            "name": "br",
+            "attrs": {}
+          },
+          "children": [
+            {
+              "$$mdtype": "Node",
+              "errors": [
+                {
+                  "id": "missing-opening",
+                  "level": "critical",
+                  "message": "Node 'tag' is missing opening"
+                }
+              ],
+              "lines": [],
+              "inline": false,
+              "attributes": {},
+              "children": [],
+              "type": "tag",
+              "tag": "html_close",
+              "annotations": [],
+              "slots": {},
+              "location": {
+                "start": {},
+                "end": {}
+              }
+            },
+            {
+              "$$mdtype": "Node",
+              "errors": [
+                {
+                  "id": "missing-closing",
+                  "level": "critical",
+                  "message": "Node 'html-tag' is missing closing"
+                }
+              ],
+              "lines": [],
+              "inline": false,
+              "attributes": {
+                "name": "br",
+                "attrs": {}
+              },
+              "children": [
+                {
+                  "$$mdtype": "Node",
+                  "errors": [
+                    {
+                      "id": "missing-opening",
+                      "level": "critical",
+                      "message": "Node 'tag' is missing opening"
+                    }
+                  ],
+                  "lines": [],
+                  "inline": false,
+                  "attributes": {},
+                  "children": [],
+                  "type": "tag",
+                  "tag": "html_close",
+                  "annotations": [],
+                  "slots": {},
+                  "location": {
+                    "start": {},
+                    "end": {}
+                  }
+                },
+                {
+                  "$$mdtype": "Node",
+                  "errors": [],
+                  "lines": [
+                    13,
+                    14
+                  ],
+                  "inline": false,
+                  "attributes": {},
+                  "children": [
+                    {
+                      "$$mdtype": "Node",
+                      "errors": [],
+                      "lines": [
+                        13,
+                        14
+                      ],
+                      "inline": false,
+                      "attributes": {},
+                      "children": [
+                        {
+                          "$$mdtype": "Node",
+                          "errors": [],
+                          "lines": [
+                            13,
+                            14
+                          ],
+                          "inline": true,
+                          "attributes": {
+                            "content": "great tool!!"
+                          },
+                          "children": [],
+                          "type": "text",
+                          "annotations": [],
+                          "slots": {},
+                          "location": {
+                            "start": {
+                              "line": 13
+                            },
+                            "end": {
+                              "line": 14
+                            }
+                          }
+                        }
+                      ],
+                      "type": "inline",
+                      "annotations": [],
+                      "slots": {},
+                      "location": {
+                        "start": {
+                          "line": 13
+                        },
+                        "end": {
+                          "line": 14
+                        }
+                      }
+                    }
+                  ],
+                  "type": "paragraph",
+                  "annotations": [],
+                  "slots": {},
+                  "location": {
+                    "start": {
+                      "line": 13
+                    },
+                    "end": {
+                      "line": 14
+                    }
+                  }
+                }
+              ],
+              "type": "tag",
+              "tag": "html-tag",
+              "annotations": [
+                {
+                  "type": "attribute",
+                  "name": "name",
+                  "value": "br"
+                },
+                {
+                  "type": "attribute",
+                  "name": "attrs",
+                  "value": {}
+                }
+              ],
+              "slots": {},
+              "location": {
+                "start": {},
+                "end": {}
+              }
+            }
+          ],
+          "type": "tag",
+          "tag": "html-tag",
+          "annotations": [
+            {
+              "type": "attribute",
+              "name": "name",
+              "value": "br"
+            },
+            {
+              "type": "attribute",
+              "name": "attrs",
+              "value": {}
+            }
+          ],
+          "slots": {},
+          "location": {
+            "start": {},
+            "end": {}
+          }
+        }
+      ],
+      "type": "tag",
+      "tag": "html-tag",
+      "annotations": [
+        {
+          "type": "attribute",
+          "name": "name",
+          "value": "br"
+        },
+        {
+          "type": "attribute",
+          "name": "attrs",
+          "value": {}
+        }
+      ],
+      "slots": {},
+      "location": {
+        "start": {},
+        "end": {}
+      }
+    }
+  ],
+  "type": "document",
+  "annotations": [],
+  "slots": {}
+}
