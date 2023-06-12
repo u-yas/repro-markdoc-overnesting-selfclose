@@ -13,25 +13,10 @@
     },
     {
       "$$mdtype": "Tag",
-      "name": "p",
+      "name": "div",
       "attributes": {},
       "children": [
-        "But since v0.3 the content below from here is not shown"
-      ]
-    },
-    {
-      "$$mdtype": "Tag",
-      "name": "br",
-      "attributes": {},
-      "children": [
-        {
-          "$$mdtype": "Tag",
-          "name": "p",
-          "attributes": {},
-          "children": [
-            "MarkDoc is"
-          ]
-        },
+        "\nBut since v0.3 the content below from here is not shown\n",
         {
           "$$mdtype": "Tag",
           "name": "br",
@@ -39,15 +24,30 @@
           "children": [
             {
               "$$mdtype": "Tag",
+              "name": "p",
+              "attributes": {},
+              "children": [
+                "MarkDoc is"
+              ]
+            },
+            {
+              "$$mdtype": "Tag",
               "name": "br",
               "attributes": {},
               "children": [
                 {
                   "$$mdtype": "Tag",
-                  "name": "p",
+                  "name": "br",
                   "attributes": {},
                   "children": [
-                    "great tool!!"
+                    {
+                      "$$mdtype": "Tag",
+                      "name": "p",
+                      "attributes": {},
+                      "children": [
+                        "great tool!!"
+                      ]
+                    }
                   ]
                 }
               ]

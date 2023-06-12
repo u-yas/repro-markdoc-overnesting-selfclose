@@ -13,10 +13,10 @@
     },
     {
       "$$mdtype": "Tag",
-      "name": "p",
+      "name": "div",
       "attributes": {},
       "children": [
-        "But since v0.3 the content below from here is not shown"
+        "\nBut since v0.3 the content below from here is not shown\n"
       ]
     },
     {

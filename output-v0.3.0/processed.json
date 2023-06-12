@@ -67,71 +67,34 @@
     "hidden": false
   },
   {
-    "type": "paragraph_open",
-    "tag": "p",
-    "attrs": null,
-    "map": [
-      2,
-      3
-    ],
+    "type": "tag_open",
     "nesting": 1,
-    "level": 0,
-    "children": null,
-    "content": "",
-    "markup": "",
-    "info": "",
-    "meta": null,
-    "block": true,
-    "hidden": false
+    "meta": {
+      "tag": "html-tag",
+      "attributes": [
+        {
+          "type": "attribute",
+          "name": "name",
+          "value": "div"
+        },
+        {
+          "type": "attribute",
+          "name": "attrs",
+          "value": {}
+        }
+      ]
+    }
   },
   {
-    "type": "inline",
-    "tag": "",
-    "attrs": null,
-    "map": [
-      2,
-      3
-    ],
-    "nesting": 0,
-    "level": 1,
-    "children": [
-      {
-        "type": "text",
-        "tag": "",
-        "attrs": null,
-        "map": null,
-        "nesting": 0,
-        "level": 0,
-        "children": null,
-        "content": "But since v0.3 the content below from here is not shown",
-        "markup": "",
-        "info": "",
-        "meta": null,
-        "block": false,
-        "hidden": false
-      }
-    ],
-    "content": "But since v0.3 the content below from here is not shown",
-    "markup": "",
-    "info": "",
-    "meta": null,
-    "block": true,
-    "hidden": false
+    "type": "text",
+    "content": "\nBut since v0.3 the content below from here is not shown\n"
   },
   {
-    "type": "paragraph_close",
-    "tag": "p",
-    "attrs": null,
-    "map": null,
+    "type": "tag_close",
     "nesting": -1,
-    "level": 0,
-    "children": null,
-    "content": "",
-    "markup": "",
-    "info": "",
-    "meta": null,
-    "block": true,
-    "hidden": false
+    "meta": {
+      "tag": "html_close"
+    }
   },
   {
     "type": "tag_open",
@@ -164,8 +127,8 @@
     "tag": "p",
     "attrs": null,
     "map": [
-      6,
-      7
+      8,
+      9
     ],
     "nesting": 1,
     "level": 0,
@@ -182,8 +145,8 @@
     "tag": "",
     "attrs": null,
     "map": [
-      6,
-      7
+      8,
+      9
     ],
     "nesting": 0,
     "level": 1,
@@ -283,8 +246,8 @@
     "tag": "p",
     "attrs": null,
     "map": [
-      11,
-      12
+      13,
+      14
     ],
     "nesting": 1,
     "level": 0,
@@ -301,8 +264,8 @@
     "tag": "",
     "attrs": null,
     "map": [
-      11,
-      12
+      13,
+      14
     ],
     "nesting": 0,
     "level": 1,

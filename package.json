@@ -3,7 +3,7 @@
     "generate": "node --loader esbuild-register/loader -r esbuild-register ./script.ts"
   },
   "devDependencies": {
-    "@markdoc/markdoc": "0.2.2",
+    "@markdoc/markdoc": "0.3.0",
     "esbuild-register": "^3.4.2",
     "htmlparser2": "^9.0.0"
   }

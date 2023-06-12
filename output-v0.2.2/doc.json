@@ -75,68 +75,47 @@
     {
       "$$mdtype": "Node",
       "errors": [],
-      "lines": [
-        2,
-        3
-      ],
+      "lines": [],
       "inline": false,
-      "attributes": {},
+      "attributes": {
+        "name": "div",
+        "attrs": {}
+      },
       "children": [
         {
           "$$mdtype": "Node",
           "errors": [],
-          "lines": [
-            2,
-            3
-          ],
+          "lines": [],
           "inline": false,
-          "attributes": {},
-          "children": [
-            {
-              "$$mdtype": "Node",
-              "errors": [],
-              "lines": [
-                2,
-                3
-              ],
-              "inline": true,
-              "attributes": {
-                "content": "But since v0.3 the content below from here is not shown"
-              },
-              "children": [],
-              "type": "text",
-              "annotations": [],
-              "location": {
-                "start": {
-                  "line": 2
-                },
-                "end": {
-                  "line": 3
-                }
-              }
-            }
-          ],
-          "type": "inline",
+          "attributes": {
+            "content": "\nBut since v0.3 the content below from here is not shown\n"
+          },
+          "children": [],
+          "type": "text",
           "annotations": [],
           "location": {
-            "start": {
-              "line": 2
-            },
-            "end": {
-              "line": 3
-            }
+            "start": {},
+            "end": {}
           }
         }
       ],
-      "type": "paragraph",
-      "annotations": [],
-      "location": {
-        "start": {
-          "line": 2
+      "type": "tag",
+      "tag": "html-tag",
+      "annotations": [
+        {
+          "type": "attribute",
+          "name": "name",
+          "value": "div"
         },
-        "end": {
-          "line": 3
+        {
+          "type": "attribute",
+          "name": "attrs",
+          "value": {}
         }
+      ],
+      "location": {
+        "start": {},
+        "end": {}
       }
     },
     {
@@ -172,8 +151,8 @@
       "$$mdtype": "Node",
       "errors": [],
       "lines": [
-        6,
-        7
+        8,
+        9
       ],
       "inline": false,
       "attributes": {},
@@ -182,8 +161,8 @@
           "$$mdtype": "Node",
           "errors": [],
           "lines": [
-            6,
-            7
+            8,
+            9
           ],
           "inline": false,
           "attributes": {},
@@ -192,8 +171,8 @@
               "$$mdtype": "Node",
               "errors": [],
               "lines": [
-                6,
-                7
+                8,
+                9
               ],
               "inline": true,
               "attributes": {
@@ -204,10 +183,10 @@
               "annotations": [],
               "location": {
                 "start": {
-                  "line": 6
+                  "line": 8
                 },
                 "end": {
-                  "line": 7
+                  "line": 9
                 }
               }
             }
@@ -216,10 +195,10 @@
           "annotations": [],
           "location": {
             "start": {
-              "line": 6
+              "line": 8
             },
             "end": {
-              "line": 7
+              "line": 9
             }
           }
         }
@@ -228,10 +207,10 @@
       "annotations": [],
       "location": {
         "start": {
-          "line": 6
+          "line": 8
         },
         "end": {
-          "line": 7
+          "line": 9
         }
       }
     },
@@ -297,8 +276,8 @@
       "$$mdtype": "Node",
       "errors": [],
       "lines": [
-        11,
-        12
+        13,
+        14
       ],
       "inline": false,
       "attributes": {},
@@ -307,8 +286,8 @@
           "$$mdtype": "Node",
           "errors": [],
           "lines": [
-            11,
-            12
+            13,
+            14
           ],
           "inline": false,
           "attributes": {},
@@ -317,8 +296,8 @@
               "$$mdtype": "Node",
               "errors": [],
               "lines": [
-                11,
-                12
+                13,
+                14
               ],
               "inline": true,
               "attributes": {
@@ -329,10 +308,10 @@
               "annotations": [],
               "location": {
                 "start": {
-                  "line": 11
+                  "line": 13
                 },
                 "end": {
-                  "line": 12
+                  "line": 14
                 }
               }
             }
@@ -341,10 +320,10 @@
           "annotations": [],
           "location": {
             "start": {
-              "line": 11
+              "line": 13
             },
             "end": {
-              "line": 12
+              "line": 14
             }
           }
         }
@@ -353,10 +332,10 @@
       "annotations": [],
       "location": {
         "start": {
-          "line": 11
+          "line": 13
         },
         "end": {
-          "line": 12
+          "line": 14
         }
       }
     }
